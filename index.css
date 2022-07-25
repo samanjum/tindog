@@ -122,6 +122,11 @@ line-height: 1.5;
         width: 25%;
     }
 }
+@media (max-width: 991px){
+    #navbar{
+        text-align: left;
+    }
+}
 #cta{
     background-color: #ff4c68;
     color: #fff;
